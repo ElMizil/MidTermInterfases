@@ -20,6 +20,12 @@ detect_coords.py
 
 # C# Cliente
 RPC_Client.sln
+Program.cs
+Grpc.cs
+GrpcGrpc.cs
 
 # Proto
 grpc.proto
+
+# Video prueba
+MidTerm.mp4
