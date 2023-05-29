@@ -31,3 +31,17 @@ grpc.proto
 MidTerm.mp4
 
 Nota: Todos los codigos tienen comentarios detallados dentro de cada uno
+
+
+
+# CORS
+CORS hace referencia a una característica de seguridad del navegador que restringe las solicitudes HTTP de origen cruzado que se inician desde secuencias de comandos que se ejecutan en el navegador. Si los recursos de la API REST reciben solicitudes HTTP complejas de varios orígenes, debe habilitar la compatibilidad con CORS.
+
+Las solicitud de origen cruzado son aquellas que se hacen para:
+-Un dominio diferente
+-Un subdominio diferente
+-Un puerto diferente 
+-Un protocolo diferente
+
+El CORS afecta a una aplicacion Web dandole seguridad ante solicitudes de origenes desconocidos, tambien sirve para enlistar aquellos origenes que si cuentan con permisos para acceder/mandar informacion para tener un mayor control de como fluye la informacion y quien tiene acceso a ella
+
