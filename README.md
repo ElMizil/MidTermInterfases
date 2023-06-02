@@ -30,7 +30,8 @@ grpc.proto
 # Video prueba
 MidTerm.mp4
 
-Nota: Todos los codigos tienen comentarios detallados dentro de cada uno
+# Documentacion Doxygen
+index.html
 
 
 
